@@ -1,5 +1,3 @@
-//now on GitHub
-
 // Fruit Ninja Clone.cpp : Defines the entry point for the application.
 //
 #pragma once
